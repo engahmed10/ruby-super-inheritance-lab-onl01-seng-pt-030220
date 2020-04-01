@@ -1,7 +1,7 @@
 class ChattyStudent < Student
 
-  def hello(phrase)
-     super + phrase
+  def hello
+     super
   end
   def raise_hand
     10.times { super}
