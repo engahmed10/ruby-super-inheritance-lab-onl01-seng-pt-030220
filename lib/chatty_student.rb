@@ -3,6 +3,6 @@ class ChattyStudent
     
   end
   def raise_hand
-    
+
   end
 end
